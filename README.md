@@ -39,8 +39,11 @@ web-app/
 - **NGINX**: Como proxy para manejar el tráfico HTTP.
 
 ## **Instalación**
+1. **Docker:**
 
-**Clonar el repositorio**:
+   Para que la aplicacion funcione se debe tener instalado Docker y Docker Compose. Ya sea instalando Docker Desktop para Windows o desde Ubuntu para Linux. Docker Compose viene instalado por defecto en las ultimas versiones
+
+2. **Clonar el repositorio**:
 
    **Nota:** Se debe tener instalado `git` para poder clonar el repositorio de GitHub y un entorno de desarrollo como Visual Studio Code con WSL o Ubuntu
 
