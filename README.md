@@ -40,7 +40,7 @@ web-app/
 
 ## **Instalación**
 
-1. **Clonar el repositorio**:
+**Clonar el repositorio**:
 
    **Nota:** Se debe tener instalado `git` para poder clonar el repositorio de GitHub y un entorno de desarrollo como Visual Studio Code con WSL o Ubuntu
 
@@ -48,10 +48,6 @@ web-app/
    git clone https://github.com/NicolasMFDev/Web-App.git
    cd web-app
    ```
-
-2. **Configurar las variables de entorno**:
-   - Define las credenciales para la base de datos y cualquier otra configuración necesaria en el 
-   archivo `docker-compose.yml` o usando un archivo `.env`.
 
 ## Uso
 
